@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-
+//
 namespace BtkAkademi.Models
 {
     public class Candidate
